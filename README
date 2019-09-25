@@ -2,6 +2,8 @@ How to use:
     create a csv file separete by ',' 
     exemple:
         name,e-mail,role
+        name,e-mail,role
+        name,e-mail,role
 
     call de comand passing the parameters, <filepath.csv> <password>
         ./create_user.sh users.csv password123
